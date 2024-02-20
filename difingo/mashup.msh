@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<com.nexacro.xsb.msh:MshRootModel xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:com.nexacro.xsb.msh="http:///com/nexacro/xsb/model.ecore">
+  <mshChildOverviews author="" description="" outputPath="[]">
+    <deploys deployPath="http://localhost:8080/xup;/FrontControllerServlet.do;/DeploymentServiceServlet.do;/ServiceInfoServiceServlet.do;/ManageServiceServlet.do" used="true"/>
+  </mshChildOverviews>
+  <mshChildProperties/>
+  <mshChildDatasources>
+    <mshItemDataSourceList mshKey="sample" mshValue="&lt;db name=&quot;sample&quot; xmlns=&quot;http://www.nexacro.com/mashup&quot; version=&quot;2.2&quot;>&#xA;  &lt;description>&lt;/description>&#xA;  &lt;dbms>sqlite3&lt;/dbms>&#xA;  &lt;driver>org.sqlite.JDBC&lt;/driver>&#xA;  &lt;connectionUrl>jdbc:sqlite:/C:\eclipse_xupN\chinook.db&lt;/connectionUrl>&#xA;  &lt;id>test&lt;/id>&#xA;  &lt;password>test&lt;/password>&#xA;  &lt;database>test&lt;/database>&#xA;  &lt;charset>UTF-8&lt;/charset>&#xA;  &lt;timeout>10000&lt;/timeout>&#xA;  &lt;maxActive>30&lt;/maxActive>&#xA;  &lt;maxIdle>30&lt;/maxIdle>&#xA;  &lt;maxWait>30&lt;/maxWait>&#xA;&lt;/db>" mshDesc=""/>
+  </mshChildDatasources>
+  <mshChildModels/>
+  <mshChildModelGroups/>
+  <mshChildUserClasses/>
+  <mshChildUserLibraries/>
+  <mshChildUserFiles/>
+</com.nexacro.xsb.msh:MshRootModel>
